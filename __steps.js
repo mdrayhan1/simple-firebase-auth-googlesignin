@@ -31,3 +31,10 @@
 3. get clientId and secret 
 
 */
+
+
+/* 
+amar notes
+state ta set korte hobe function app er thik nice
+
+*/
